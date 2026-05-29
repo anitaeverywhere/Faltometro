@@ -37,7 +37,16 @@ Este projeto foi desenvolvido aplicando conceitos sólidos de usabilidade e desi
 
 ### Pré-requisitos
 * [Node.js](https://nodejs.org/) instalado em sua máquina.
-*
-* Faça o clone deste repositório:
-```bash
+* 1. Faça o clone deste repositório:
+  ```bash
    git clone [https://github.com/SEU_USUARIO/faltometro.git](https://github.com/SEU_USUARIO/faltometro.git)
+   Acesse a pasta do projeto:
+* 2. Acesse a pasta do projeto:
+  ```bash
+  cd faltometro 
+* 3. Instale as Dependências:
+  ```bash
+  npm install
+* 4. Inicie o servidor localmente
+```bash
+ npm run dev
