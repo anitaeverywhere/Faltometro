@@ -39,8 +39,7 @@ Este projeto foi desenvolvido aplicando conceitos sólidos de usabilidade e desi
 * [Node.js](https://nodejs.org/) instalado em sua máquina.
 * 1. Faça o clone deste repositório:
   ```bash
-   git clone [https://github.com/SEU_USUARIO/faltometro.git](https://github.com/SEU_USUARIO/faltometro.git)
-   Acesse a pasta do projeto:
+   git clone https://github.com/anitaeverywhere/Faltometro
 * 2. Acesse a pasta do projeto:
   ```bash
   cd faltometro 
